@@ -6,6 +6,8 @@ This repository contains PAC (Proxy Auto-Config) scripts used in ProxyData.io do
 - Example PAC files for ZeroOmega and browsers
 - Domain-based proxy routing samples
 - Simple failover patterns
+- Geo routing
+- etc
 
 ## Notes
 - All IP addresses and domains in examples are placeholders.
